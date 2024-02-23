@@ -1,1 +1,1 @@
-vxIsAJLyRsaIatPM5AR0uzzXds1mTN5OXi6Sr7EYjsFxrmQNIe2hFoTGxJeCKeqrYIPJxhyBC77wtuQ6w0AeFoH0970ev1xwy3GOUmoaGmal7wgm63a3xM5wCfFJQ18TZSjkVf9MGN2DrdbONC553Q==
+{"needUpdateVersion": "1.01","updateUrl": "https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id414478124", "sign": "d3d07be63e"}
