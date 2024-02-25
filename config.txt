@@ -1,1 +1,1 @@
-{"needUpdateVersion": "0.00","updateUrl": "", "sign": "fa3397f63c"}
+{"lastestVersion": "0.00", "sign": "fa3397f63c"}
