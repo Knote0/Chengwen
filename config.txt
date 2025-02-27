@@ -1,1 +1,1 @@
-{"pDic":{"1.22":"第二","1.21":"hookInstanceSelectorAfter ('RELifeCycleLoader', 'applicationDidFinishLaunching',        function(instance, originInvocation, originArguments){             asyncAfter (5, function() {debug.log('asyncAfter 5.5');} );            debug.log('asyncBefore5.5');        }    );","1.20":"第零"},"sign":"afbaab4d46","needUpdateVersion":"1.21"}
+{"pDic":{},"needUpdateVersion":"1.20","sign":"e06a321148"}
